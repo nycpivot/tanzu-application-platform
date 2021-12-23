@@ -1,1 +1,1 @@
-# tanzu-application-platform
+Sample org structure for application catalog
